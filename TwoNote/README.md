@@ -8,7 +8,9 @@ products:
 - surface-duo
 urlFragment: two-note
 ---
-
+----
+Dummy Text to check commits in repo.
+----
 # TwoNote
 
 This sample integrates various dual-screen app features into a note-taking app for the Surface Duo. Users can view and edit notes via the [list-detail](https://docs.microsoft.com/dual-screen/introduction#master-detail) or [extended canvas](https://docs.microsoft.com/dual-screen/introduction#extended-canvas) dual-screen app patterns. Each note may contain text and images, which can both be imported through drag/drop. In addition, users can add drawings and annotations to their notes with pen events.
